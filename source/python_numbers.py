@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # This file is named python_numbers.py instead of numbers.py
 # in order to avoid collision with an existing library also called numbers.
 
@@ -15,7 +16,7 @@ print(f == e)
 
 # Float
 # https://docs.python.org/3/tutorial/floatingpoint.html
-c = 1.2 
+c = 1.2
 d = .5
 g = .314e1
 print(type(g))

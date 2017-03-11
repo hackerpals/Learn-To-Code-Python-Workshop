@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 a = 'apple'
 b = 'bee'
 c = 313

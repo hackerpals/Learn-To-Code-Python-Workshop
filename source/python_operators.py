@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # Note there is already a library called 'operator'
 
 # Arithmetic Operators

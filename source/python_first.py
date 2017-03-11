@@ -1,7 +1,4 @@
-'''
-Title: Your First Program
-Author Hacker Pals
-Updated: 2017
-'''
+#!/usr/bin/python
+
 
 print('Hello World')
