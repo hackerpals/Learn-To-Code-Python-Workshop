@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #Start a list
 l = ['python', 12, 'Hacker', 'pals', 'seven']
 print(type(l))

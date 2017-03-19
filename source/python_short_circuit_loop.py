@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #########
 # BREAK #
 #########
@@ -32,9 +33,9 @@ sixth line
 new_lines = ''
 
 for line in s3.split('\n'):
-    if line.startswith('#'): 
+    if line.startswith('#'):
         continue
-    if line.startswith('//'): 
+    if line.startswith('//'):
         continue
     new_lines += line+'\n'
 print('non-commented lines')

@@ -1,7 +1,7 @@
-
+#!/usr/bin/python
 invalid = 'cow' == 'pig'
 
-# You can check for successful validation as such. 
+# You can check for successful validation as such.
 
 if not invalid:
     print('Validation is successful')

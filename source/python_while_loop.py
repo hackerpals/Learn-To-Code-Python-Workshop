@@ -1,3 +1,4 @@
+#!/usr/bin/python
 l = [11, 12, 13]
 
 while l: # While l is not empty
